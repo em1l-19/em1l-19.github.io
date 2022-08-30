@@ -1,0 +1,121 @@
+/************************* TAG SELECTORS **************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Noto Serif", serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 100px auto 0 auto;
+  font-family: "Dancing Script", serif;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #627264;
+  margin-top: 30px;
+}
+h3{
+  color: #ad9baa;
+}
+
+p {
+  font-family: "Oswald", sans-serif;
+  margin: 0 auto 100px auto;
+  color: #627264;
+}
+
+hr {
+  border-color: #a1cda8;
+  border-style: dotted;
+  border-width: 1rem;
+  border-bottom: none;
+  width: 15rem;
+}
+
+lord-icon {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+button{
+  border-radius: 1rem;
+  background-color: #ad9baa;
+  border: none;
+  height: 4rem;
+  width: 20rem;
+}
+
+
+/************************** CLASS SELECTORS ***********************/
+.heading {
+  color: #627264;
+  font-family: "Oswald", sans-serif;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #c5e7e2;
+  position: relative;
+  height: 837px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 40%;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  left: 75rem;
+}
+
+.mountain {
+  position: absolute;
+  bottom: 0;
+  right: 39rem;
+}
+
+.Climbing {
+  width: 25%;
+  float: right;
+  margin-left: 1.875rem;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 6.25rem auto;
+  width: 50rem;
+  line-height: 2;
+}
+
+.profile {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+.contact-me {
+  background-color: #b5dfca;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.bottom-container{
+  background-color: #b5dfca;
+  height: 90px;
+}
+
+/************************** ID SELECTORS ***********************/
+#profile {
+  height: 16rem;
+  margin: 3.75rem;
+}
+
+#headline {
+  font-family: "Dancing Script", serif;
+}
